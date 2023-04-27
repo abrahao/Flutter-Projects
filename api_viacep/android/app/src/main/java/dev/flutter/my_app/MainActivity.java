@@ -1,4 +1,4 @@
-package dev.flutter.my_app;
+package dev.flutter.ViaCEP;
 
 import io.flutter.embedding.android.FlutterActivity;
 
